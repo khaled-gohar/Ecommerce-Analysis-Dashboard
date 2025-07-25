@@ -64,7 +64,7 @@ Normalized source schema from Neon PostgreSQL.
 Restructured for reporting and analytics with `FactSales` and associated `Dim` tables.
 
 ![OLAP ERD](images/erd_olap.png)
-*Generated using DBeaver*
+
 
 | OLTP Table           | OLAP Equivalent          | Purpose                                       |
 |----------------------|--------------------------|-----------------------------------------------|
