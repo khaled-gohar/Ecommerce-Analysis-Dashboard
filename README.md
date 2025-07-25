@@ -68,7 +68,7 @@ Restructured for reporting and analytics with `FactSales` and associated `Dim` t
 
 | OLTP Table           | OLAP Equivalent          | Purpose                                       |
 |----------------------|--------------------------|-----------------------------------------------|
-| Orders + Payments    | `fact_sales`             | Central table for transactional facts         |
+| Orders               | `fact_sales`             | Central table for transactional facts         |
 | Customers            | `dim_customers`          | Customer profile and identity details         |
 | Products             | `dim_product`            | Product catalog and metadata                  |
 | Sellers              | `dim_sellers`            | Seller information                            |
